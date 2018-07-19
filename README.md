@@ -18,7 +18,7 @@ gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 #### Running in development
 `gatsby develop`
 
-## Credits
+## Attribution
 https://www.gatsbyjs.org/tutorial/part-one/<br/>
 https://github.com/gatsbyjs/gatsby-starter-hello-world
 
