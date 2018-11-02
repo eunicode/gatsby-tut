@@ -1,13 +1,17 @@
 # Gatsby Tutorial Part 1
 
-This repo follows the steps in [part one](https://www.gatsbyjs.org/tutorial/part-one/) of the [seven part tutorial](https://www.gatsbyjs.org/tutorial/) on the Gatsby website.<br>
-In this tutorial, I <br>
-* add inline styles via a JavaScript style prop, 
-* create links, 
-* create React page components, 
-* and add an interactive counter. 
+This repo follows the steps in _[Introduction to Gatsby basics](https://www.gatsbyjs.org/tutorial/part-one/)_, part one of the [seven part tutorial](https://www.gatsbyjs.org/tutorial/) in the Gatsby v1 documentation.
 
-The website created in this repo is built from the [gatsby-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world) starter, which has the bare essentials needed for a Gatsby site.
+In this tutorial, I 
+
+- add inline styles via a JavaScript style prop, 
+- create links, 
+- create React page components, 
+- and add an interactive counter. 
+
+## Demo
+
+The website created by this repo is built from the [gatsby-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world) starter, which has the bare essentials needed for a Gatsby site.
 
 The website is deployed on [fuzzy-month.surge.sh](http://fuzzy-month.surge.sh).
 
@@ -42,6 +46,7 @@ If you have Gatsby's command line tool installed, you can run the command `gatsb
 You can see more CLI commands in the [docs](https://www.gatsbyjs.org/docs/).
 
 ## Attribution
-https://www.gatsbyjs.org/tutorial/part-one/<br/>
-https://github.com/gatsbyjs/gatsby-starter-hello-world
+
+- [Introduction to Gatsby basics](https://v1.gatsbyjs.org/tutorial/part-one/)
+- Gatsby [Hello World](https://github.com/gatsbyjs/gatsby-starter-hello-world) starter
 
